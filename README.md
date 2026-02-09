@@ -38,3 +38,5 @@ It simulates a real-world food delivery experience with login, restaurant browsi
 
 ## 📂 Project Structure
 
+Output:https://karthikeyan0069.github.io/food/
+
